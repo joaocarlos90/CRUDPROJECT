@@ -1,0 +1,25 @@
+C:\Users\supor\source\repos\empresa\empresa\bin\Debug\empresa.exe.config
+C:\Users\supor\source\repos\empresa\empresa\bin\Debug\empresa.exe
+C:\Users\supor\source\repos\empresa\empresa\bin\Debug\empresa.pdb
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.FormPrincipal.resources
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.FrEmpresas.resources
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.Properties.Resources.resources
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.csproj.GenerateResource.cache
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.csproj.CoreCompileInputs.cache
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.exe
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.pdb
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.csprojAssemblyReference.cache
+C:\Users\supor\source\repos\empresa\empresa\obj\Debug\empresa.FrEditDeleteEmpresa.resources
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\bin\Debug\empresa.exe.config
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\bin\Debug\empresa.exe
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\bin\Debug\empresa.pdb
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.csprojAssemblyReference.cache
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.FormPrincipal.resources
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.FrEditDeleteEmpresa.resources
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.FrEmpresas.resources
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.Properties.Resources.resources
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.csproj.GenerateResource.cache
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.exe
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.pdb
+C:\Users\Bruna Patricia\Desktop\Cadastro de Empresas\empresa\obj\Debug\empresa.FrDtGrid.resources
